@@ -1,4 +1,4 @@
-package com.ll.exam.app__2022_10_12.app.util;
+package com.ll.exam.app__2022_10_12.util;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
